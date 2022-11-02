@@ -1,5 +1,6 @@
 
 
+
 .chat-bar-collapsible {
     position: fixed;
     bottom: 0;
@@ -121,6 +122,11 @@
     max-width: 80%;
     margin-right: 10px;
     animation: floatup .5s forwards
+}
+
+#chat-timestamp {
+    font-weight: bold;
+    font-size: 0.8rem;
 }
 
 .botText {
