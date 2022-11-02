@@ -1,7 +1,11 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+
+# Vini Mini ChatBot🥜
+
+<img width="400" alt="Screenshot 2022-10-31 at 05 05 23" src="https://user-images.githubusercontent.com/112861555/198929492-3e33c660-ba59-465a-968d-5cd97277f69a.png">
+
+Doel opdracht: chatbot maken. Zodat ouders hun algemene vragen kunnen stellen aan Vini Mini.
+Link naar het chatbot:
 
 ## Inhoudsopgave
 
@@ -11,16 +15,56 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Wiki:
+
+Ik heb gekozen voor de opdrachtgever Vini Mini. In mijn wiki kan je meer lezen over de opdrachtgever Vini Mini.
+
+Link naar Wiki: 
+
+Ik heb gekozen voor de user story Chat.
+
+"Er kunnen vragen worden gesteld aan een gebruiker over zijn / haar Mini. Zo kan er een
+advies worden gegeven over wanneer en in welke hoeveelheid wat voor producten aan het
+kind kunnen worden gegeven. Dit wordt beter weergegeven in het storyboard in Figma die de
+makers gemaakt hebben, hierin is beter te zien en te begrijpen hoe dit in zijn werk gaat."
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
+<strong>Tools</strong>
+
+<ul>
+  <li>VScode</li>
+  <li>GitHub</li>
+  <li>Pen & Papier</li>
+</ul>
+
+
+<strong>Gebruikte Technieken</strong>
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+</ul>
+
+
+<strong>Communicatie middelen</strong>
+
+<ul>
+  <li>Whats app</li>
+  <li>Discord</li>
+  <li>Teams</li>
+</ul>
 
 
 ## Bronnen
+
+<ul>
+  <li>https://www.youtube.com/</li>
+  <li>https://www.google.com/</li>
+  <li>https://discord.com/</li>
+   <li>https://vinimini.nl/</li>
+</ul>
 
 ## Licentie
 
