@@ -15,11 +15,9 @@ Link naar het chatbot:
   * [Licentie](#licentie)
 
 ## Beschrijving
-Wiki:
 
 Ik heb gekozen voor de opdrachtgever Vini Mini. In mijn wiki kan je meer lezen over de opdrachtgever Vini Mini.
 
-Link naar Wiki: 
 
 Ik heb gekozen voor de user story Chat.
 
